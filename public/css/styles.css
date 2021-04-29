@@ -1,0 +1,31 @@
+body {
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    background-image: url('../img/background3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+h1 {
+    color: #00e7ff;
+}
+
+form label {
+    font-weight: bold;
+}
+a{
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+
+form {
+    align: center;
+}
